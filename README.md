@@ -2,7 +2,7 @@
 title: Iris DVA
 description: 
   Iris Data Visualization and Analysis&#58; A data viewer, metadata wrangler and
-  analysis platform
+  analysis platform.
 ---
 
 ## Introduction
