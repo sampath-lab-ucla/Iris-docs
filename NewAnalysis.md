@@ -1,4 +1,8 @@
-# Analyzing Data
+---
+title: Create An Analysis
+description: Leveraging the custom function files for reproducible analysis.
+---
+
 ## Introduction
 A core feature of Iris DVA is the ability to create custom analysis functions
 and tune input arguments from the Analysis interface and store output arguments
