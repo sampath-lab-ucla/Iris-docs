@@ -21,6 +21,6 @@ Once a data file is [loaded](BasicUsage.md), the user can then open the
 *Analyze* interface from the Analysis menu.
 
 <figure>
-![Figure 1.1](./img/uiAnalyze.png)
-<figcaption align="center"><b>Figure 1.</b> The Analysis Window.</figcaption>
+<img src="img/uiAnalyze.png" alt="Figure 1.1" style="width:100%">
+<figcaption align="center"><b>Figure 1.1</b> <em>The Analysis Window.</em></figcaption>
 </figure>
