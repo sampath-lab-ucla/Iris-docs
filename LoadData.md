@@ -2,7 +2,7 @@
 title: Loading And Viewing Data
 description: 
   Importing and viewing data using the built-in support for files recorded using
-  [Symphony](https://cafarm.gitbooks.io/symphony/content/).
+  <a href="https://cafarm.gitbooks.io/symphony/content/">Symphony</a>.
 ---
 
 ## Introduction
