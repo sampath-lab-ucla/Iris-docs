@@ -15,7 +15,7 @@ Iris provides an interface to custom written analysis functions with the goal of
 
 
 <figure style="width:100%;display:block">
-<img src="../img/uiAnalyze.png" style="width:100%;">
+<img src="../img/uiAnalyze.png" style="width:100%;display:block;">
 <figcaption style="text-align:center;"><b>Figure 2.1</b> <em>The Analysis Window.</em></figcaption>
 </figure>
 

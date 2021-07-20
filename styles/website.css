@@ -16,6 +16,7 @@ figure {
   border: 1px #cccccc solid;
   padding: 2px;
   margin: auto;
+  display:block;
 }
 
 figure img {
