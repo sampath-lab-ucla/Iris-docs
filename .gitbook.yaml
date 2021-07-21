@@ -1,8 +1,23 @@
+title: Iris DVA
+author: Khris Griffis
 root: ./
-
-structure:
+structure: 
   readme: README.md
-  summarh: SUMMARY.md
+  summary: SUMMARY.md
+styles: 
+  website:styles/website.css
+plugins: 
+  -highlight
+  favicon
+  todo
+  image-captions
+pluginsConfig: 
+  favicon: 
+    shortcut:favicon.ico
+    bookmark:favicon.ico
+  image-captions: 
+    caption: "_PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ -- _CAPTION_"
+    align: center
+    attributes: 
+      width: "max(50vw,800px)"
 
-styles:
-  website: styles/website.css
