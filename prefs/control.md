@@ -1,6 +1,6 @@
 ---
-  title: prefs-control
-  description: prefs
+title: prefs-control
+description: prefs
 ---
 
 ## Introduction

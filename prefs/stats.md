@@ -1,6 +1,6 @@
 ---
-  title: prefs-stats
-  description: prefs
+title: prefs-stats
+description: prefs
 ---
 
 ## Introduction

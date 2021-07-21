@@ -1,6 +1,6 @@
 ---
-  title: prefs-variables
-  description: prefs
+title: prefs-variables
+description: prefs
 ---
 
 ## Introduction

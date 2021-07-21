@@ -1,6 +1,6 @@
 ---
-  title: prefs-navigation
-  description: prefs
+title: prefs-navigation
+description: prefs
 ---
 
 ## Introduction

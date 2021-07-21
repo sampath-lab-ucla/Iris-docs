@@ -1,6 +1,6 @@
 ---
-  title: prefs-data
-  description: prefs
+title: prefs-data
+description: prefs
 ---
 
 ## Introduction

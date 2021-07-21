@@ -1,6 +1,6 @@
 ---
-  title: prefs-scaling
-  description: prefs
+title: prefs-scaling
+description: prefs
 ---
 
 ## Introduction

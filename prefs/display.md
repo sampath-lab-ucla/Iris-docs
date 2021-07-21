@@ -1,6 +1,6 @@
 ---
-  title: prefs-display
-  description: prefs
+title: prefs-display
+description: prefs
 ---
 
 ## Introduction

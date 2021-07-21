@@ -1,7 +1,6 @@
 ---
-  title: prefs-README
-  description: prefs
+title: prefs-README
+description: prefs
 ---
-
 
 ## Introduction

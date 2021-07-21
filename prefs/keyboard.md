@@ -1,6 +1,6 @@
 ---
-  title: prefs-keyboard
-  description: prefs
+title: prefs-keyboard
+description: prefs
 ---
 
 ## Introduction
