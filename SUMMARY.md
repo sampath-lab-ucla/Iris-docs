@@ -26,9 +26,9 @@
 
 ## Analyzing Data
 
-* [Analyze Data](analysis/README.md)
+* [Iris Data](analysis/README.md)
   * [Exporting Data](analysis/exporting-data.md)
-  * [Analyizing Data](analysis/create-an-analysis.md)
+  * [Analyzing Data](analysis/create-an-analysis.md)
   * [Creating Modules](analysis/create-a-module.md)
 
 ## Developing For Iris
