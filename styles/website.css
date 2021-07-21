@@ -11,20 +11,3 @@
 #book-search-results .search-results .has-results .search-results-item a {
   color: #b67c00;
 }
-
-figure {
-  border: 1px #aaaaaa solid;
-  padding: 2px;
-  margin: auto;
-  display:block;
-}
-
-figure img {
-  display: block;
-  width: 100%;
-}
-
-figcaption {
-  padding: 2px;
-  text-align: center;
-}

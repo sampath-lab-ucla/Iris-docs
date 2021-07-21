@@ -17,7 +17,9 @@
       "bookmark": "favicon.ico"
     },
     "image-captions": {
-      "caption": "_PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ -- _CAPTION_"
+      "caption": "_PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ -- _CAPTION_",
+      "align":"center",
+      "attributes": { "width":"max(50vw,800px)"}
     }
   }
 }
