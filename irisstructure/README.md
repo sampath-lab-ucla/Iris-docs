@@ -14,12 +14,12 @@ and encapsulate data in as few classes as possible. Over the years, the Iris UI
 has changed, moving first from traditional java based figures to the newer
 web-based figures, but the core of the application mostly remained the same.
 
-## [Data Core](irisstructure/data-core.md)
+## [Data Core](data-core.md)
 The Iris data core is comprised of a Datum class and its Handler.
 
-## [User Interface](irisstructure/user-interface.md)
+## [User Interface](user-interface.md)
 The Iris user-interface is a collection of *figure* windows each served from a
 menu servicing class, which handles thier creation and desctruction from the
-main application. The UI is served through the [primary view](basicusage/README.md) and the
-[preferences](basicusage/preferences.md) window, though the user may find that 
-navigating larger datasets is easier through the [Data Overview](basicusage/navigation.md).
+main application. The UI is served through the [primary view](../basicusage/README.md) and the
+[preferences](../basicusage/preferences.md) window, though the user may find that 
+navigating larger datasets is easier through the [Data Overview](../basicusage/navigation.md).
