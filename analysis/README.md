@@ -11,11 +11,11 @@ A key goal of Iris is to make collecting and working with recorded data simple, 
 
 ## Using The Analyze Interface
 
-Iris provides an interface to custom written analysis functions with the goal of producing a simple in-out control of results all from within the application. Once a data file is [loaded](../basicusage/), the user can then open the _Analyze_ interface from the Analysis menu.
+Iris provides an interface to custom written analysis functions with the goal of producing a simple in-out control of results all from within the application. Once a data file is [loaded](basicusage/), the user can then open the _Analyze_ interface from the Analysis menu.
 
 
-<figure style="width:100%;display:block">
-<img src="../img/uiAnalyze.png" style="width:100%;display:block;">
-<figcaption style="text-align:center;"><b>Figure 2.1</b> <em>The Analysis Window.</em></figcaption>
+<figure>
+<img src="img/uiAnalyze.png">
+<figcaption><b>Figure 2.1</b> <em>The Analysis Window.</em></figcaption>
 </figure>
 

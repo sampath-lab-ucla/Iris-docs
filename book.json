@@ -1,0 +1,23 @@
+{
+  "title":"Iris DVA",
+  "author": "Khris Griffis",
+  "root":"./",
+  "styles": {
+    "website":"styles/website.css"
+  },
+  "plugins": [
+    "-highlight",
+    "favicon@^0.0.2",
+    "todo@^0.1.3",
+    "image-captions"
+  ],
+  "pluginsConfig": {
+    "favicon": {
+      "shortcut": "favicon.ico",
+      "bookmark": "favicon.ico"
+    },
+    "image-captions": {
+      "caption": "_PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ -- _CAPTION_"
+    }
+  }
+}
