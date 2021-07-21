@@ -21,5 +21,5 @@ The Iris data core is comprised of a Datum class and its Handler.
 The Iris user-interface is a collection of *figure* windows each served from a
 menu servicing class, which handles thier creation and desctruction from the
 main application. The UI is served through the [primary view](../basicusage/README.md) and the
-[preferences](../basicusage/preferences.md) window, though the user may find that 
+[preferences](../prefs/README.md) window, though the user may find that 
 navigating larger datasets is easier through the [Data Overview](../basicusage/navigation.md).

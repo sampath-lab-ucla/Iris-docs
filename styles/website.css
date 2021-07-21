@@ -1,15 +1,15 @@
 /* CSS for website */
 
 .markdown-section a {
-  color: #b67c00;
+  color: #00B87A;
 }
 
 .book-summary ul.summary li.active > a {
-  color: #b67c00;
+  color: #00B87A;
 }
 
 #book-search-results .search-results .has-results .search-results-item a {
-  color: #b67c00;
+  color: #00B87A;
 }
 
 .test {
