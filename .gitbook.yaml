@@ -20,4 +20,5 @@ pluginsConfig:
     align: center
     attributes: 
       width: "max(50vw,800px)"
-
+redirects:
+  help/contact: README.md
