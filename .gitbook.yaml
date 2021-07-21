@@ -1,0 +1,8 @@
+root: ./
+
+structure:
+  readme: README.md
+  summarh: SUMMARY.md
+
+styles:
+  website: styles/website.css
