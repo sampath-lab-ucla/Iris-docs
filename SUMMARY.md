@@ -1,6 +1,6 @@
 # Iris DVA
 
-* [Introduction](README.md)
+* [Iris DVA](README.md)
 
 ## Getting Started
 
