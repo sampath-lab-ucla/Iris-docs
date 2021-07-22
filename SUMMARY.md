@@ -35,5 +35,3 @@
 
 * [Extending Iris](extendiris/README.md)
   * [Create A Data Reader](extendiris/create-a-reader.md)
-
-<img src="./img/iris-animated.gif" width="60" />
