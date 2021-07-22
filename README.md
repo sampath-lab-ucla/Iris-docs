@@ -5,7 +5,7 @@ description:
   analysis platform.
 ---
 
-<img src="./img/iris-animated.gif" width="60" alt="Iris DVA"/>
+<img src="./img/iris-animated.gif" alt="Iris: Data Visualization and Analysis" />
 
 ## Introduction
 
