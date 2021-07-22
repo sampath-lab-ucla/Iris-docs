@@ -5,7 +5,7 @@ description: Overview of Iris source code structure.
 
 ## [https://github.com/sampath-lab-ucla/IrisDVA/tree/master/src](Source Tree)
 
-```emacs
+<pre>
 [src](https://github.com/sampath-lab-ucla/IrisDVA/tree/master/src)  
 ├── [+iris](https://github.com/sampath-lab-ucla/IrisDVA/tree/master/src/+iris/)  
 │   ├── [+app](https://github.com/sampath-lab-ucla/IrisDVA/tree/master/src/+iris/+app/)  
@@ -105,8 +105,7 @@ description: Overview of Iris source code structure.
     ├── [onTickerUpdated.m](https://github.com/sampath-lab-ucla/IrisDVA/tree/master/src/@Iris/onTickerUpdated.m)  
     └──
     [updateMenus.m](https://github.com/sampath-lab-ucla/IrisDVA/tree/master/src/@Iris/updateMenus.m)
-```
-
-~~~~~~
+</pre>
+<hr>
 
 16 directories, 81 files
