@@ -5,7 +5,7 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 styles: 
-  website:styles/website.css
+  website: ./styles/website.css
 plugins: 
   -highlight
   favicon
@@ -16,9 +16,9 @@ pluginsConfig:
     shortcut:favicon.ico
     bookmark:favicon.ico
   image-captions: 
-    caption: "_PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ -- _CAPTION_"
+    caption: _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ -- _CAPTION_
     align: center
     attributes: 
-      width: "max(50vw,800px)"
+      width: 800px
 redirects:
   help/contact: README.md
