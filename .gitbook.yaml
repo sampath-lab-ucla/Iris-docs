@@ -7,10 +7,11 @@ structure:
 styles: 
   website: styles/website.css
 plugins: 
-  - highlight
+  - -highlight
   - favicon
   - todo
   - image-captions
+  - theme-api
 pluginsConfig: 
   favicon: 
     shortcut: favicon.ico
