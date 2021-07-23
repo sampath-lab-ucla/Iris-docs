@@ -38,7 +38,3 @@ File
 ## Modules
 
 ## Help
-
-
-
-└──
