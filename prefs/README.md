@@ -7,35 +7,35 @@ description: prefs
  *Content coming soon.*
 
 
-## [Navigation](prefs/navigation.md)
+## [Navigation](navigation/README.md)
 *Navigation*
 
-### [Keyboard](keyboard.md)
+### [Keyboard](navigation/keyboard.md)
 *Keyboard*
 
-### [Control](control.md)
+### [Control](navigation/control.md)
 *Control*
 
 
-## [Workspace](prefs/workspace.md)
+## [Workspace](workspace/README.md)
 *Workspace*
 
-### [Variables](variables.md)
+### [Variables](workspace/variables.md)
 *Variables*
 
-### [Display](display.md)
+### [Display](workspace/display.md)
 *Display*
 
 
-## [Data](prefs/data.md)
+## [Data](data/README.md)
 *Data"
 
-### [Filter](filter.md)
+### [Filter](data/filter.md)
 *Filter*
 
-### [Statistics](stats.md)
+### [Statistics](data/stats.md)
 *Statistics*
 
-### [Scaling](scaling.md)
+### [Scaling](data/scaling.md)
 *Scaling*
 
