@@ -6,4 +6,4 @@ description: prefs
 ## Introduction
  *Content coming soon.*
 
-![Keyboard](..\img\pref-keyboard.png)
+![Keyboard](..\..\img\pref-keyboard.png)

@@ -6,4 +6,4 @@ description: prefs
 ## Introduction
  *Content coming soon.*
 
-![Control](..\img\pref-control.png)
+![Control](..\..\img\pref-control.png)
