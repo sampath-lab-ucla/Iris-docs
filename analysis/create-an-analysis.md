@@ -14,16 +14,14 @@ resources we assume the user comprehends.
 
 * [Creating Function Files](https://www.mathworks.com/help/matlab/matlab_prog/create-functions-in-files.html)
 * [Functions](https://www.mathworks.com/help/matlab/ref/function.html)
-* [Types of
-  Functions](https://www.mathworks.com/help/matlab/matlab_prog/types-of-functions.html)
-* [Function Precedence
-  Order](https://www.mathworks.com/help/matlab/matlab_prog/function-precedence-order.html)
+* [Types of Functions](https://www.mathworks.com/help/matlab/matlab_prog/types-of-functions.html)
+* [Function Precedence Order](https://www.mathworks.com/help/matlab/matlab_prog/function-precedence-order.html)
 
 Iris DVA leverages the capability of MATLAB's `function` syntax by parsing the
 function output arguments as named variables and storing them in the specified output
 mat-file. 
 
-```matlab
+```MATLAB
 function [output] = functionName(inputs)
   % ... perform analysis
 end
