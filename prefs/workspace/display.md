@@ -4,6 +4,7 @@ description: prefs
 ---
 
 ## Introduction
- *Content coming soon.*
 
-![Display](..\img\pref-display.png)
+*Content coming soon.*
+
+![Display](../../../img/pref-display.png)

@@ -4,6 +4,7 @@ description: prefs
 ---
 
 ## Introduction
- *Content coming soon.*
+
+*Content coming soon.*
 
 ![Keyboard](../../../img/pref-keyboard.png)

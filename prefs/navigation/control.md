@@ -4,6 +4,7 @@ description: prefs
 ---
 
 ## Introduction
- *Content coming soon.*
 
-![Control](..\..\img\pref-control.png)
+*Content coming soon.*
+
+![Control](../../../img/pref-control.png)
