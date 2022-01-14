@@ -16,4 +16,4 @@ src
 
 ## Introduction
 Iris loads data into an array of the `iris.data.Datum` class and manages access
-to the data through the `iris.data.Handler` class. The 
+to the data through the `iris.data.Handler` class.

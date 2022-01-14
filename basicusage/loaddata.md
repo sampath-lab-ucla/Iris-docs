@@ -19,3 +19,9 @@ Iris offers a number of methods for navigating and displaying data. From travers
 
 ## The Data Overview Interface
 
+
+## Saving Data
+
+While navigating a large data file, one may highlight a subset of data indices for export. Selected indices may be exported to disk as IrisData (`*.idata`) or delimited (`*.tsv,*.csv`) files or to the MATLAB global workspace by selecting the `Analysis > Export...` option. 
+
+<img src="./img/export-csv.gif" alt="Export CSV Animation" />

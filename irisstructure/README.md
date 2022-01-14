@@ -11,20 +11,16 @@ MATLAB based application for ease of shareability, compatibility and
 extensibility. I took an object-oriented approach to designing the core
 mechanism and leveraged MATLAB's vectorized language in an attempt to simplify
 and encapsulate data in as few classes as possible. Over the years, the Iris UI
-has changed, moving first from traditional java based figures to the newer
-web-based figures, but the core of the application mostly remained the same.
-
-
-
-
+has changed, moving first from traditional java based figures to the newer  
+web-based figures, with minimal updates to the application core structure.
 
 ## [Data Core](data-core.md)
-The Iris data core is comprised of a Datum class and its Handler.
+The Iris data core comprises a Datum class and its Handler.
 
 ## [User Interface](user-interface.md)
 The Iris user-interface is a collection of *figure* windows each served from a
 menu servicing class, which handles thier creation and desctruction from the
-main application. The UI is served through the [primary view](../basicusage/README.md) and the
+main application. The UI is presented through the [primary view](../basicusage/README.md) and the
 [preferences](../prefs/README.md) window, though the user may find that 
 navigating larger datasets is easier through the [Data
 Overview](../basicusage/navigation.md).
